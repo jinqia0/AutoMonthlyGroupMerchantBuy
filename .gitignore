@@ -1,0 +1,9 @@
+bin/
+obj/
+Plugins/
+*.dll
+*.pdb
+*.cache
+Settings.Lua
+*.log
+*.tmp
